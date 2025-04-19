@@ -44,3 +44,4 @@ ll.print()
 
 ll.insert_at_head(10101)
 ll.print()
+ll.print()
